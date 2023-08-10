@@ -1,5 +1,5 @@
 # NodeJS QuickStart
-NodeJS QuickStart is a simple template for kickstarting Node.js projects. This template automates the process of creating a new Node.js project, initializing a Git repository, and pushing it to your GitHub account, all using a convenient Bash script.
+NodeJS QuickStart is a simple template for kick-starting Node.js projects. This template automates the process of creating a new Node.js project, initializing a Git repository, and pushing it to your GitHub account, all using a convenient Bash script.
 
 ## Getting Started
 Follow these steps to get your Node.js project up and running quickly:
