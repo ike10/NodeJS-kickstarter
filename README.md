@@ -11,38 +11,40 @@ Install Node.js: If Node.js is not already installed on your system, you can dow
 ``` sh
 git clone <repository_clone_url>
 cd NodeJS-QuickStart
+```
 Navigate to the Project Directory: 
-```
 
 ```sh
-~ cd NodeJS-QuickStart
-Run the Project: ~
+cd NodeJS-QuickStart
 ```
 
+Run the Project: 
+
 ```sh
-Copy code
 node index.js
-This will execute the sample "Hello, Node.js!" code located in the index.js file.
 ```
+
+This will execute the sample "Hello, Node.js!" code located in the index.js file.
 
 ## Features
-Automated setup: Use the provided Bash script to quickly create a new Node.js project, initialize a Git repository, and push it to your GitHub account.
-Minimalistic: Start with a basic project structure and add your own code and features.
-Prerequisites
+1. Automated setup: Use the provided Bash script to quickly create a new Node.js project, initialize a Git repository, and push it to your GitHub account.
+2. Minimalistic: Start with a basic project structure and add your own code and features.
+
+## Prerequisites
 Node.js: Make sure you have Node.js installed on your system. You can download it from nodejs.org.
-Usage
-Run the create-nodejs-app.sh script and follow the prompts:
+
+## Usage
+1. Run the create-nodejs-app.sh script and follow the prompts:
 
 ```sh
-Copy code
 ./create-nodejs-app.sh
 ```
 
-Enter your GitHub access token when prompted. This token is required to create the repository on GitHub.
+2. Enter your GitHub access token when prompted. This token is required to create the repository on GitHub.
 
-Enter a name for the new repository. This name will be used for both the local directory and the GitHub repository.
+3. Enter a name for the new repository. This name will be used for both the local directory and the GitHub repository.
 
-The script will automatically create a new Node.js project, initialize a Git repository, and push it to your GitHub account.
+4. The script will automatically create a new Node.js project, initialize a Git repository, and push it to your GitHub account.
 
 ## Contributing
 Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
